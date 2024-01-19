@@ -41,6 +41,7 @@ Through this analysis, I have gained insights into my music preferences, identif
 
 ## Files Included
 - `spotify_analysis.py`: The main Python script for data analysis.
+- `spotify_2019.xlsx`: The Excel file containing Spotify stream history.
 - `visualizations/`: Folder containing generated visualizations.
 - `README.md`: Provides information on the project and how to use it.
 
