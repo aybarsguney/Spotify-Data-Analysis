@@ -26,6 +26,7 @@ The data used in this project comes from my personal Spotify stream history of 2
 - `spotify_analysis.py`: The main Python script for data analysis.
 - `spotify_2019.xlsx`: The Excel file containing Spotify stream history.
 - `visualizations/`: Folder containing generated visualizations.
+- `project_report.docx`: Project report providing insights into music preferences.
 - `README.md`: Provides information on the project and how to use it.
 
 ## Author
